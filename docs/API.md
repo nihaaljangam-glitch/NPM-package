@@ -31,7 +31,7 @@
 Creates and returns an Express middleware function `(req, res, next)`.
 
 ```javascript
-const apiLogger = require("@nihaljangam/express-api-logger");
+const apiLogger = require("@nihaaljangam-glitch/express-api-logger");
 app.use(apiLogger(options));
 ```
 

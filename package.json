@@ -1,5 +1,5 @@
 {
-  "name": "@nihaljangam/express-api-logger",
+  "name": "@nihaaljangam-glitch/express-api-logger",
   "version": "1.0.0",
   "description": "A lightweight, zero-dependency, and customizable HTTP request logging middleware for Express.js applications.",
   "main": "src/index.js",

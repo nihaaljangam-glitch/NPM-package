@@ -64,7 +64,7 @@ Developers typically end up writing repetitive `console.log` statements inside e
 ## Installation
 
 ```bash
-npm install @nihaljangam/express-api-logger
+npm install @nihaaljangam-glitch/express-api-logger
 ```
 
 ---
@@ -73,7 +73,7 @@ npm install @nihaljangam/express-api-logger
 
 ```javascript
 const express = require("express");
-const apiLogger = require("@nihaljangam/express-api-logger");
+const apiLogger = require("@nihaaljangam-glitch/express-api-logger");
 
 const app = express();
 
@@ -101,7 +101,7 @@ Terminal output:
 
 ```javascript
 const express = require("express");
-const apiLogger = require("@nihaljangam/express-api-logger");
+const apiLogger = require("@nihaaljangam-glitch/express-api-logger");
 
 const app = express();
 

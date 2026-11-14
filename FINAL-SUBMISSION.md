@@ -8,7 +8,7 @@
 
 ## 1. Project Name
 
-`@nihaljangam/express-api-logger` — Express API Logger
+`@nihaaljangam-glitch/express-api-logger` — Express API Logger
 
 ---
 
@@ -244,7 +244,7 @@ Tests run with `npm test` — no external test runner required.
 ## 12. Installation Instructions
 
 ```bash
-npm install @nihaljangam/express-api-logger
+npm install @nihaaljangam-glitch/express-api-logger
 ```
 
 ---
@@ -255,7 +255,7 @@ npm install @nihaljangam/express-api-logger
 
 ```javascript
 const express = require("express");
-const apiLogger = require("@nihaljangam/express-api-logger");
+const apiLogger = require("@nihaaljangam-glitch/express-api-logger");
 
 const app = express();
 app.use(apiLogger());
@@ -291,7 +291,7 @@ app.use(apiLogger({
 
 **Status:** ⏳ Pending your approval and login.
 
-**Expected URL after publish:** https://www.npmjs.com/package/@nihaljangam/express-api-logger
+**Expected URL after publish:** https://www.npmjs.com/package/@nihaaljangam-glitch/express-api-logger
 
 > **Action required:** See NPM Publication Steps below.
 
