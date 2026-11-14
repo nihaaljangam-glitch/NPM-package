@@ -1,0 +1,51 @@
+{
+  "name": "@nihaljangam/express-api-logger",
+  "version": "1.0.0",
+  "description": "A lightweight, zero-dependency, and customizable HTTP request logging middleware for Express.js applications.",
+  "main": "src/index.js",
+  "exports": {
+    ".": "./src/index.js",
+    "./package.json": "./package.json"
+  },
+  "type": "commonjs",
+  "scripts": {
+    "test": "node --test test/*.test.js",
+    "test:watch": "node --test --watch test/*.test.js",
+    "example": "node examples/basic-example.js",
+    "example:custom": "node examples/custom-example.js"
+  },
+  "keywords": [
+    "express",
+    "middleware",
+    "logger",
+    "api-logger",
+    "http",
+    "request-logger",
+    "monitoring",
+    "performance"
+  ],
+  "author": "Nihal Jangam",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nihaljangam/express-api-logger.git"
+  },
+  "bugs": {
+    "url": "https://github.com/nihaljangam/express-api-logger/issues"
+  },
+  "homepage": "https://github.com/nihaljangam/express-api-logger#readme",
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "peerDependencies": {
+    "express": "^4.18.0 || ^5.0.0"
+  },
+  "peerDependenciesMeta": {
+    "express": {
+      "optional": false
+    }
+  },
+  "devDependencies": {
+    "express": "^4.21.2"
+  }
+}

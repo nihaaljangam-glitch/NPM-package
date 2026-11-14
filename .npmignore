@@ -1,0 +1,17 @@
+# Tests and Examples
+test/
+examples/
+docs/
+
+# CI / GitHub
+.github/
+
+# Configuration and Assignment Notes
+.gitignore
+.npmignore
+FINAL-SUBMISSION.md
+
+# Logs & Environment
+*.log
+.DS_Store
+.env
