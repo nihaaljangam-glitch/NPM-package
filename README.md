@@ -297,5 +297,6 @@ This project is licensed under the [MIT License](./LICENSE).
 
 **Nihal Jangam**
 
-- GitHub: https://github.com/nihaljangam
+- GitHub: https://github.com/nihaaljangam-glitch
+- Repository: https://github.com/nihaaljangam-glitch/NPM-package
 - NPM: https://www.npmjs.com/~nihaljangam

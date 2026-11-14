@@ -281,9 +281,9 @@ app.use(apiLogger({
 
 **Status:** ✅ Local Git repository initialized with initial commit.
 
-**Repository URL (pending creation):** https://github.com/nihaljangam/express-api-logger
+**Repository URL:** https://github.com/nihaaljangam-glitch/NPM-package
 
-> **Action required:** You must create the public GitHub repository and push. See GitHub Publication Steps below.
+> **Status:** ✅ Pushed to GitHub.
 
 ---
 

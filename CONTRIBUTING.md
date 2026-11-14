@@ -39,8 +39,8 @@ git --version
 ## Clone the Repository
 
 ```bash
-git clone https://github.com/nihaljangam/express-api-logger.git
-cd express-api-logger
+git clone https://github.com/nihaaljangam-glitch/NPM-package.git
+cd NPM-package
 ```
 
 ---
@@ -135,7 +135,7 @@ npm run example:custom
 
 If you find a bug, please open an issue at:
 
-https://github.com/nihaljangam/express-api-logger/issues
+https://github.com/nihaaljangam-glitch/NPM-package/issues
 
 Include the following in your report:
 
@@ -168,7 +168,7 @@ Include the following in your report:
    ```bash
    git push origin feature/your-feature-name
    ```
-8. **Open a Pull Request** against the `main` branch of this repository.
+8. **Open a Pull Request** against the `main` branch of this repository at https://github.com/nihaaljangam-glitch/NPM-package.
 
 ---
 
